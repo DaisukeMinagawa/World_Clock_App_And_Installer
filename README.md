@@ -1,4 +1,4 @@
-# Worldc Clock App And Installer
+# World Clock App And Installer
 　　
 ## 1. 必要なパッケージのインストール
 
